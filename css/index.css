@@ -1,0 +1,19 @@
+body {font-family: 'Acme', sans-serif;}
+h3 {font-family: 'Acme', sans-serif;}
+.paragraf2 {font-family: 'Acme', sans-serif;}
+.paragraf2 {background-color: aqua;}
+.isi  {background-color:black;}
+.isi  {color: white;}
+marquee {color:yellow;}
+body {background-color: darkturquoise;}
+.tombol1{
+    text-decoration: none;
+    color: black;
+    margin: 20px auto;
+}
+button {
+    width: 100px;
+    height: 50px;
+    margin: 20px auto;   
+    background-color: aqua;
+}

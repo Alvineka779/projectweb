@@ -1,0 +1,29 @@
+body {
+    background-color: #2F4F4F;
+}
+h1 {
+    text-shadow: 2px 2px;
+}
+h2 {
+    text-shadow: -10px -15px;
+}
+h3 {
+    text-shadow: 10px -15px 5px;
+}
+h4.satu {
+    text-shadow: 2px 2px 5px red;
+}
+h4.dua {
+    text-shadow: 2px -2px 5px blue;
+}
+h4.tiga {
+    text-shadow: -5px -5px 3px #FF68ED;
+}
+h4.empat {
+    text-shadow: 2px -2px 15px #56FF67;
+}
+.tombol1{
+    text-decoration: none;
+    color: black;
+    margin: 20px auto;
+}

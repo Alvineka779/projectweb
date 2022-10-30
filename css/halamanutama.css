@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0 auto;
+}
+h1  {
+    text-align: center;
+}
+.tombol1 {
+    text-decoration: none;
+    color: black;
+}
+button {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+a:hover, button:hover{
+    opacity:0.9;
+}
+p {
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: gray;
+}

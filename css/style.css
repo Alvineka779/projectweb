@@ -1,0 +1,153 @@
+/*Box 1*/
+.box1 {background-color: white;}
+div{
+    height: 50px;
+    border: 2px solid black;
+    margin: 20px;
+    background-color: yellow;
+    
+}
+.kotak1 {width: 10px;}
+.kotak2 {width: 50px;}
+.kotak3 {width: 100px;}
+.kotak4 {width: 500px;}
+.kotak5 {width: 1000px;}
+
+.kotak6 {width: 10px;}
+.kotak7 {width: 50px;}
+.kotak8 {width: 75px;}
+.kotak9 {width: 100px;}
+.kotak10 {width: 125px;}
+
+/*Box 2*/
+.box2 {
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+    align-items: center;
+    margin: 20px auto;
+}
+.paragraf2box {
+    width: 400px;
+    margin: 20px auto;
+}
+.paragraf3box {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.tombol1{
+    text-decoration: none;
+    color: black;
+    margin: 20px auto;
+}
+.tombol2{
+    text-decoration: none;
+    color: black;
+    background-color: cyan;
+    margin: 20px auto;
+}
+button {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+.button1 {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+/*Border 3*/
+.border3 {background-color: white;}
+#solid {
+width: 200px;
+height: 200px;
+border-top: 10px groove red;
+border-bottom: 10px groove yellow;
+border-left:10px groove green ;
+border-right: 10px groove blue;
+background-color:  white;
+}
+#dotted {
+width: 200px;
+height: 200px;
+border-top: 10px dotted red;
+border-bottom: 10px dotted yellow;
+border-left:10px dotted green ;
+border-right: 10px dotted blue;
+background-color: white;
+}
+
+/*border 2*/
+.border {background-color: white;}
+.satu {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px solid orange;
+}
+.dua {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px dotted orange;
+}
+.tiga {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px dashed orange;
+}
+.empat {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px double orange;
+}
+.lima {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px groove orange;
+}
+.enam {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px ridge orange;
+}
+.tujuh {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px inset orange;
+}
+.delapan {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border: 10px outset orange;
+}
